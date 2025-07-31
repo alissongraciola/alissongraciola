@@ -26,12 +26,10 @@
 
  <div>
   <a href="https://github.com/alissongraciola">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alissonmadureira2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonmadureira2007&layout=compact&theme=dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alissongraciola&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissongraciola&layout=compact&theme=dark">
  </a>
 </div>
   <hr>
- <a href="https://www.linkedin.com/in/di%C3%AAgo-r-madureira-19025711b/" target="_blank">
-  <img align="center" alt="Alisson-LINKEDIN" height="60" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
- </a>
+
  
