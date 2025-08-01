@@ -4,9 +4,9 @@
  <img align="right" width="300" height="168" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
  
 - 💻 Full Stack
-- 🎓 Bacharel em Sistemas do Informação
-- 🎓 Pós-Graduado em Tecnologias para Aplicações WEB
-- 🎓 Mestre em Propriedade Intelectual e Transferência de Tecnologias para a Inovação
+- 🎓 Ensino médio integrado ao tecnico de desenvolvimento de sistemas
+- 🎓 Estudante de Análise e desenvolvimento de sistemas
+- 🇩🇪 Auxiliar administração katoen brasil 🇧🇷
 <br>
 <hr>
 
